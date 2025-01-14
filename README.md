@@ -17,7 +17,7 @@
   - 🔧 Développement d'outils en Python pour résoudre des problèmes techniques  
 
 - 🌱 **En apprentissage** :  
-  - Maîtrise avancée de **Golang**  
+  - Maîtrise avancée de **Python**  
   - Découverte de nouvelles technologies et frameworks innovants  
 
 - 🎮   
