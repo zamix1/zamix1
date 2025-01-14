@@ -20,8 +20,8 @@
   - Maîtrise avancée de **Golang**  
   - Découverte de nouvelles technologies et frameworks innovants  
 
-- 🎮 **Loisirs & autres passions** :  
-  - 🚀 Jouer à **Gun.LOL** : [Mon profil](https://guns.bio/zamix) 🔫  
+- 🎮   
+  - 🚀  **Gun.LOL** : [Mon profil](https://guns.bio/zamix) 🔫  
   - 🤝 Collaboration avec d'autres développeurs passionnés avec le frero **Benzi**.
 
 ---
