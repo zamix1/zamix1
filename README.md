@@ -52,8 +52,7 @@
 ## 🛠️ **Mes projets favoris**
 
 ### 🔧 **Bots Discord**
-- 🤖 [Bot SuperCool](#) : Bot multifonctionnel pour serveurs Discord  
-- 🎶 [Bot MusicMania](#) : Bot musical avec des commandes avancées  
+- 🤖 [Bot gestion](#) : Bot multifonctionnel pour serveurs Discord    
 
 ### 🧰 **Outils Python**
 - 🛠️ [ToolBox](#) : Collection d'outils pour simplifier la vie des devs  
